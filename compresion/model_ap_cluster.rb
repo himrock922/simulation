@@ -6,11 +6,11 @@ class Model
 		@@x = 0.0
 		@@y = 0.0
 		@@ap_num = 1
-		File.open("big_data.txt", "r") do |file|
+		File.open(ARGV[0], "r") do |file|
 				file.each do |result|
 					@@node  = result.split[0].to_i
-					@@pos_x = result.split[1].to_i
-					@@pos_y = result.split[2].to_i
+					@@pos_x = result.split[1].to_f
+					@@pos_y = result.split[2].to_f
 					@@x_y   = @@pos_x + @@pos_y
 					@@c_node = Array.new
 					@@c_x = Array.new
@@ -18,12 +18,12 @@ class Model
 					@@count = 1 
 					@@c_x.push(@@pos_x)
 					@@c_y.push(@@pos_y)
-				File.open("big_data.txt", "r") do |file2|
+				File.open(ARGV[0], "r") do |file2|
 					file2.each do |result2|
 						next if @@node == result2.split[0].to_i
 						node_tmp = result2.split[0].to_i
-						x_tmp = result2.split[1].to_i
-						y_tmp = result2.split[2].to_i
+						x_tmp = result2.split[1].to_f
+						y_tmp = result2.split[2].to_f
 						x_y_tmp = x_tmp + y_tmp
 						if ((@@pos_x - x_tmp > -30 * Math::PI && @@pos_x - x_tmp < 30 * Math::PI) && (@@pos_y - y_tmp > -30 * Math::PI && @@pos_y - y_tmp < 30 * Math::PI)) 
 							if @@c_node.include?(node_tmp) == true
