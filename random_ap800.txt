@@ -1,0 +1,1600 @@
+0 setgray 238.628 -1925.81 s
+
+0 setgray -1058.92 2546.7 s
+
+0 setgray -2697.89 -399.417 s
+
+0 setgray -6068.4 419.283 s
+
+0 setgray 2856.24 -3271.76 s
+
+0 setgray -1217.2 -83.1833 s
+
+0 setgray 6203.92 716.324 s
+
+0 setgray 2982.1 1059.9 s
+
+0 setgray -5392.44 -5681.69 s
+
+0 setgray -6673.66 -3412.68 s
+
+0 setgray 483.98 -8242.72 s
+
+0 setgray -2747.15 954.221 s
+
+0 setgray -2747.88 -3047.07 s
+
+0 setgray 1059.65 1872.25 s
+
+0 setgray 1259.64 -2534.93 s
+
+0 setgray 2370.5 5496.43 s
+
+0 setgray 3663.98 2412.94 s
+
+0 setgray 1816.89 -681.789 s
+
+0 setgray 3392.58 -5080.23 s
+
+0 setgray 620.779 4701.5 s
+
+0 setgray 4316.22 298.459 s
+
+0 setgray -4266.77 125.618 s
+
+0 setgray 1347 -3621.57 s
+
+0 setgray 1342.38 1196.1 s
+
+0 setgray -2717.62 -2575.98 s
+
+0 setgray -653.684 -3483.98 s
+
+0 setgray -2762.76 -1127.91 s
+
+0 setgray -2098.86 3118.35 s
+
+0 setgray 4189.43 3105.01 s
+
+0 setgray 4049.23 -3783.72 s
+
+0 setgray -52.6783 -5264.13 s
+
+0 setgray -4177.71 1784.85 s
+
+0 setgray -1416.09 5394.74 s
+
+0 setgray 5506.8 -1546.82 s
+
+0 setgray 814.183 -3570.14 s
+
+0 setgray -2737.24 4214.38 s
+
+0 setgray 413.899 -227.417 s
+
+0 setgray -2405.76 -1861.55 s
+
+0 setgray -6286.82 3156.56 s
+
+0 setgray 721.238 -4806.7 s
+
+0 setgray 3017.76 6390.35 s
+
+0 setgray 2696.63 822.72 s
+
+0 setgray -2.70193 9656.29 s
+
+0 setgray 3937.58 -1998.59 s
+
+0 setgray -9531.51 6135.41 s
+
+0 setgray 2319.6 -1520.15 s
+
+0 setgray 2933.67 -1338.81 s
+
+0 setgray -5116.83 1842.27 s
+
+0 setgray 7256.95 -1693.53 s
+
+0 setgray -1336 -4846.77 s
+
+0 setgray -1359.32 -5661.56 s
+
+0 setgray -643.83 7192.19 s
+
+0 setgray 2737.83 -675.25 s
+
+0 setgray 1110.14 2417.8 s
+
+0 setgray 4805.61 2539.43 s
+
+0 setgray -5166.68 701.505 s
+
+0 setgray -1870.71 1529.51 s
+
+0 setgray 3463.17 -2544.08 s
+
+0 setgray 2743.29 4255.31 s
+
+0 setgray -2607.66 1815.67 s
+
+0 setgray -1541.94 -1285.7 s
+
+0 setgray -1972.91 -78.9256 s
+
+0 setgray -3051.11 -4824.98 s
+
+0 setgray -708.032 1865.77 s
+
+0 setgray -3907.25 -4179.61 s
+
+0 setgray 773.609 621.345 s
+
+0 setgray 224.592 -4170.48 s
+
+0 setgray -6254.48 -896.075 s
+
+0 setgray -3836.15 3157.46 s
+
+0 setgray -1217.5 -1346.9 s
+
+0 setgray 1718.32 4539.41 s
+
+0 setgray -1299.14 4373.96 s
+
+0 setgray 3169.73 -4353.27 s
+
+0 setgray 5567.65 835.9 s
+
+0 setgray -3710.97 -3429.38 s
+
+0 setgray 3518.67 266.309 s
+
+0 setgray -4855.08 -2019.83 s
+
+0 setgray 36.9303 2249.31 s
+
+0 setgray -5250.77 2616.96 s
+
+0 setgray -853.797 -2522.43 s
+
+0 setgray 2340.22 2226.75 s
+
+0 setgray -859.324 5358.85 s
+
+0 setgray 7655.63 548.571 s
+
+0 setgray 6470.47 5042.1 s
+
+0 setgray 111.189 -923.454 s
+
+0 setgray -4438.23 917.597 s
+
+0 setgray -4099.99 -1972.99 s
+
+0 setgray -692.897 212.149 s
+
+0 setgray -6428.8 6541.16 s
+
+0 setgray -2040.46 -4237.39 s
+
+0 setgray -3606.76 -476.351 s
+
+0 setgray -665.217 -5887.71 s
+
+0 setgray -309.851 1079.02 s
+
+0 setgray 7301.54 2547.42 s
+
+0 setgray 4943 4944.16 s
+
+0 setgray -2400.32 -4690.67 s
+
+0 setgray 3982.96 -2689.37 s
+
+0 setgray 920.771 100.023 s
+
+0 setgray 4035.18 2584.98 s
+
+0 setgray -3822.88 3718.78 s
+
+0 setgray 1619.92 -6083.19 s
+
+0 setgray 505.299 3430.83 s
+
+0 setgray 4225.26 1678.57 s
+
+0 setgray 818.629 -1789.17 s
+
+0 setgray 7745.4 -2488.96 s
+
+0 setgray 4484.88 -126.008 s
+
+0 setgray 4286.27 -3007.68 s
+
+0 setgray 4332.78 -8591.85 s
+
+0 setgray -3110.18 4535.65 s
+
+0 setgray 2337.84 3800.44 s
+
+0 setgray -1969.36 -2383.25 s
+
+0 setgray -2065.7 8077.97 s
+
+0 setgray -3473.86 -3835.59 s
+
+0 setgray -2578.73 -6834.67 s
+
+0 setgray 3194.32 -3050.92 s
+
+0 setgray -998.881 -4581.05 s
+
+0 setgray 1767.03 3829.48 s
+
+0 setgray 5635.1 2765.62 s
+
+0 setgray 1331.85 -7061.57 s
+
+0 setgray -1523.48 4046.86 s
+
+0 setgray 1010.36 -956.701 s
+
+0 setgray -1722.52 -994.52 s
+
+0 setgray -1498.94 -599.175 s
+
+0 setgray 4277.5 -5345.44 s
+
+0 setgray -6137.35 2688.54 s
+
+0 setgray 2472.24 2748.21 s
+
+0 setgray -3676.99 -2793.8 s
+
+0 setgray -1477.86 1481.6 s
+
+0 setgray -1274.93 -1095.87 s
+
+0 setgray 1136.41 5611.62 s
+
+0 setgray -395.485 3271.6 s
+
+0 setgray -7398.2 1382.75 s
+
+0 setgray 1026.31 3409.09 s
+
+0 setgray 2288.89 660.44 s
+
+0 setgray -4764.44 6263 s
+
+0 setgray -996.138 -1903.45 s
+
+0 setgray -4504.48 1637.79 s
+
+0 setgray -773.434 3861.87 s
+
+0 setgray 3157.53 495.311 s
+
+0 setgray 5711.75 -3023.21 s
+
+0 setgray 6205.35 -464.238 s
+
+0 setgray -1881.1 3758.06 s
+
+0 setgray -4012.97 -6428.33 s
+
+0 setgray -4557.05 2928.08 s
+
+0 setgray 1315.38 4165.17 s
+
+0 setgray -3391.7 745.53 s
+
+0 setgray 2831.71 1594.97 s
+
+0 setgray -2591.99 -5027.17 s
+
+0 setgray -2467.57 244.467 s
+
+0 setgray -3932.1 -5062.04 s
+
+0 setgray 4995.3 -2164.81 s
+
+0 setgray -895.119 783.508 s
+
+0 setgray -1758.92 4391.17 s
+
+0 setgray 705.274 4164.09 s
+
+0 setgray -4605.45 -988.943 s
+
+0 setgray -4121.39 2347.12 s
+
+0 setgray -2036.32 597.848 s
+
+0 setgray -5061.36 4373.93 s
+
+0 setgray 1662.48 1033.74 s
+
+0 setgray 5625.99 -1957.88 s
+
+0 setgray 433.109 -2537.45 s
+
+0 setgray -2832.85 2535.9 s
+
+0 setgray 2979.65 2453.36 s
+
+0 setgray 108.226 -674.339 s
+
+0 setgray -884.145 -2957.82 s
+
+0 setgray 1523.82 357.299 s
+
+0 setgray 3792.07 349.269 s
+
+0 setgray -213.054 -1376.59 s
+
+0 setgray -2032.49 -3202.94 s
+
+0 setgray -2221.65 1261.07 s
+
+0 setgray 2089.23 -4523.63 s
+
+0 setgray 3486.87 887.056 s
+
+0 setgray 4836.7 1637.22 s
+
+0 setgray -4264.71 7254.29 s
+
+0 setgray -808.929 -1144.47 s
+
+0 setgray -3769.89 2010 s
+
+0 setgray 1811.67 6517.73 s
+
+0 setgray 3478.93 3594.35 s
+
+0 setgray -3591.08 -9356.42 s
+
+0 setgray -1205.16 -7097.47 s
+
+0 setgray -6566.6 4927.78 s
+
+0 setgray 53.3074 5886.32 s
+
+0 setgray -376.948 -1653.9 s
+
+0 setgray 1440.61 -2102.89 s
+
+0 setgray -3581.55 -5747.83 s
+
+0 setgray -6582.31 -2060.79 s
+
+0 setgray -1757.06 1744.17 s
+
+0 setgray -659.149 -480.551 s
+
+0 setgray -2751.57 7245.45 s
+
+0 setgray 1723.83 60.0126 s
+
+0 setgray -1407.93 1045.45 s
+
+0 setgray -5082.23 -2750.25 s
+
+0 setgray -3596.13 -2403.45 s
+
+0 setgray 2591.85 -1015.92 s
+
+0 setgray 5851.16 299.85 s
+
+0 setgray 2656.42 -4786.15 s
+
+0 setgray -4304.65 4679.44 s
+
+0 setgray -1982.52 5854.1 s
+
+0 setgray 2141.58 4257.98 s
+
+0 setgray 2095.78 1435.93 s
+
+0 setgray -7428.32 2112.77 s
+
+0 setgray -5027.28 -4860.64 s
+
+0 setgray 345.759 1221.4 s
+
+0 setgray 1583.08 3069.32 s
+
+0 setgray 3912.72 857.397 s
+
+0 setgray -1925.25 -1373.06 s
+
+0 setgray 5413.25 4359.81 s
+
+0 setgray -486.098 -2374.93 s
+
+0 setgray -855.763 470.514 s
+
+0 setgray -1650.21 2472.28 s
+
+0 setgray -3334.52 2374.57 s
+
+0 setgray -2384.51 -662.295 s
+
+0 setgray 6807.18 -3921.22 s
+
+0 setgray -3712.41 -1128.18 s
+
+0 setgray -9218.41 -399.402 s
+
+0 setgray -1355.19 6474.88 s
+
+0 setgray -2820.3 -4404.25 s
+
+0 setgray 2506.03 -2361.28 s
+
+0 setgray 1380.09 1808.74 s
+
+0 setgray -1778.24 272.492 s
+
+0 setgray -5357.62 -1718.69 s
+
+0 setgray -3092.31 -1941.35 s
+
+0 setgray -845.737 1322.05 s
+
+0 setgray 4312.34 -4439.44 s
+
+0 setgray -1017.13 3498.23 s
+
+0 setgray 270.607 -4619.86 s
+
+0 setgray 2070.29 1834.11 s
+
+0 setgray 657.297 8084.99 s
+
+0 setgray 1377.63 -2863.75 s
+
+0 setgray -2400.26 2248.73 s
+
+0 setgray 291.066 -7154.49 s
+
+0 setgray 5436.62 7301.6 s
+
+0 setgray 2456.92 -7285.5 s
+
+0 setgray 407.053 2722.19 s
+
+0 setgray -3479.92 -4864.99 s
+
+0 setgray 973.672 2201.56 s
+
+0 setgray -453.558 2193.01 s
+
+0 setgray -6994.84 838.324 s
+
+0 setgray 523.654 -997.951 s
+
+0 setgray 4339.75 -2012.89 s
+
+0 setgray -5420.13 5264.79 s
+
+0 setgray 5375.17 2204.4 s
+
+0 setgray -4195.63 -1233.24 s
+
+0 setgray 1827.39 -2168.26 s
+
+0 setgray -2071.06 -5233.19 s
+
+0 setgray -930.471 2003.77 s
+
+0 setgray 1600.91 -4051.74 s
+
+0 setgray -3743.82 2653.23 s
+
+0 setgray 223.388 -1587.6 s
+
+0 setgray 1808.43 -962.843 s
+
+0 setgray -3026.98 -972.02 s
+
+0 setgray -3169.66 -2743.71 s
+
+0 setgray 2650.32 7325.18 s
+
+0 setgray -3603.75 -5369.15 s
+
+0 setgray -7402.59 -489.538 s
+
+0 setgray -8803.38 3643.01 s
+
+0 setgray 6775.94 3443.39 s
+
+0 setgray -7019.45 5709.27 s
+
+0 setgray -1002.86 -3725.71 s
+
+0 setgray 3179.89 -932.787 s
+
+0 setgray -1790.53 -2800.74 s
+
+0 setgray -2583.59 1466.44 s
+
+0 setgray 838.022 -2549.91 s
+
+0 setgray -3388.64 -991.718 s
+
+0 setgray -5882.41 -3606.58 s
+
+0 setgray -158.485 -2595.57 s
+
+0 setgray -4950.53 1019.6 s
+
+0 setgray 3852.97 5953.05 s
+
+0 setgray 1311.39 -1306.67 s
+
+0 setgray -455.88 2873.49 s
+
+0 setgray 6247.88 2274.9 s
+
+0 setgray -5210.53 -4179.39 s
+
+0 setgray 3425.49 -1342.62 s
+
+0 setgray -6500.32 1547.6 s
+
+0 setgray 111.566 1637.24 s
+
+0 setgray 2173.32 -7.12083 s
+
+0 setgray -62.3801 2936.97 s
+
+0 setgray 1352.34 2133.59 s
+
+0 setgray 3029.57 -2265.37 s
+
+0 setgray -1247.44 -3221.08 s
+
+0 setgray -4393.28 -669.355 s
+
+0 setgray -182.154 -600.57 s
+
+0 setgray 2099.16 1040.54 s
+
+0 setgray -2853.47 2166.29 s
+
+0 setgray -4337.85 -4442.44 s
+
+0 setgray 1420.25 -572.473 s
+
+0 setgray 4823.32 3167.18 s
+
+0 setgray -3360.49 -234.73 s
+
+0 setgray -3918.72 179.956 s
+
+0 setgray -5456.9 -1043.33 s
+
+0 setgray -1230.14 3776.67 s
+
+0 setgray -5801.67 -7040.29 s
+
+0 setgray 6.32757 -42.8785 s
+
+0 setgray -1413.58 147.616 s
+
+0 setgray 2944.8 -1750.24 s
+
+0 setgray -5327.5 -3332.84 s
+
+0 setgray 4526.61 5401.32 s
+
+0 setgray 1056.41 -5160.25 s
+
+0 setgray -4467.28 5589.22 s
+
+0 setgray 231.029 772.545 s
+
+0 setgray 5218.11 5776.43 s
+
+0 setgray 6542.77 -2544.86 s
+
+0 setgray 1830.14 1330.33 s
+
+0 setgray -847.376 -1550.27 s
+
+0 setgray 7134.3 1470.2 s
+
+0 setgray -2408.58 -2878.48 s
+
+0 setgray 197.474 -2836.78 s
+
+0 setgray 739.366 -6516.97 s
+
+0 setgray 2467.13 -3966.25 s
+
+0 setgray -2728.68 -1746.69 s
+
+0 setgray 2060.14 -3061.78 s
+
+0 setgray -4062.33 583.842 s
+
+0 setgray 4842.15 -5792.51 s
+
+0 setgray -1598.33 -2448.87 s
+
+0 setgray -4075.3 -7570.32 s
+
+0 setgray 5768.46 1494.46 s
+
+0 setgray -3369.31 -4301.35 s
+
+0 setgray 1973.14 700.97 s
+
+0 setgray 2641.34 86.3887 s
+
+0 setgray 2944.05 -2685.38 s
+
+0 setgray 421.467 468.786 s
+
+0 setgray -8717.63 214.295 s
+
+0 setgray 2494.54 -6313.24 s
+
+0 setgray 81.9604 3373.93 s
+
+0 setgray -551.935 -160.334 s
+
+0 setgray 3784.2 6701.68 s
+
+0 setgray 4870.95 920.958 s
+
+0 setgray -1460.99 436.832 s
+
+0 setgray 795.762 6419.62 s
+
+0 setgray -1948.4 6921.79 s
+
+0 setgray -1020.68 -1018.27 s
+
+0 setgray -153.973 1565.42 s
+
+0 setgray -3261.79 -1287.61 s
+
+0 setgray -2404.57 572.125 s
+
+0 setgray 2820.86 3606.81 s
+
+0 setgray 4503.85 1308.72 s
+
+0 setgray -3269.85 -1654.4 s
+
+0 setgray -3979.75 6502.23 s
+
+0 setgray -5562.6 1086.5 s
+
+0 setgray 2406.91 -3208.71 s
+
+0 setgray -3121.51 -5354.45 s
+
+0 setgray 1566.62 -1343.69 s
+
+0 setgray -1223.1 541.505 s
+
+0 setgray 372.371 5243.54 s
+
+0 setgray -6425.11 -5495.6 s
+
+0 setgray 358.849 -1272.67 s
+
+0 setgray -507.72 2566.41 s
+
+0 setgray 3255.57 4587.78 s
+
+0 setgray -2300.75 -2488.31 s
+
+0 setgray -316.981 -3459.03 s
+
+0 setgray 1369.45 -4530.52 s
+
+0 setgray 745.342 1685.19 s
+
+0 setgray -2564.63 6475.43 s
+
+0 setgray 781.373 3089.28 s
+
+0 setgray -3314.3 1889.19 s
+
+0 setgray 388.43 1738.82 s
+
+0 setgray -1495.46 3449.05 s
+
+0 setgray 1230.21 3028.43 s
+
+0 setgray -1364.63 -7791.61 s
+
+0 setgray -6313.55 -445.251 s
+
+0 setgray -6273.22 894.391 s
+
+0 setgray -2161.28 4053.02 s
+
+0 setgray -135.773 2567.3 s
+
+0 setgray 4945.37 -1449.26 s
+
+0 setgray 5057.74 -3863.19 s
+
+0 setgray -493.651 731.206 s
+
+0 setgray -5176.27 -89.1168 s
+
+0 setgray -2129.13 162.931 s
+
+0 setgray -1041.05 5881.62 s
+
+0 setgray 5219.25 6408.39 s
+
+0 setgray 4426.4 753.201 s
+
+0 setgray 2563.73 3196.33 s
+
+0 setgray -904.432 -4181.32 s
+
+0 setgray 1173.08 5141.9 s
+
+0 setgray -2177.39 -2084.81 s
+
+0 setgray -3069.17 1100.12 s
+
+0 setgray -3883.53 -806.874 s
+
+0 setgray 2562.57 -1317.77 s
+
+0 setgray 1034.35 -3192.43 s
+
+0 setgray 995.165 1161.4 s
+
+0 setgray 471.477 2284.52 s
+
+0 setgray -350.196 -8032.25 s
+
+0 setgray -134.206 -1613.6 s
+
+0 setgray -1204.97 1857.64 s
+
+0 setgray -1244 -480.952 s
+
+0 setgray 7640.02 -870.446 s
+
+0 setgray 1853.16 3357.31 s
+
+0 setgray 3964.08 3688.76 s
+
+0 setgray -2147.27 -1590.21 s
+
+0 setgray 1632.91 -2483.49 s
+
+0 setgray 392.185 -746.08 s
+
+0 setgray -4831.46 -5904.48 s
+
+0 setgray -1235.49 -2285.38 s
+
+0 setgray -1448.79 -262.995 s
+
+0 setgray -8219.66 657.142 s
+
+0 setgray 510.338 -1617.99 s
+
+0 setgray -3846.2 5051.77 s
+
+0 setgray -2367.41 -3775.6 s
+
+0 setgray 1080.77 -263.596 s
+
+0 setgray 6192.52 1410.19 s
+
+0 setgray -4459.18 -2421.95 s
+
+0 setgray 1513.2 -3210.86 s
+
+0 setgray -2944.16 322.711 s
+
+0 setgray 3837.04 -6991.39 s
+
+0 setgray -1788.14 2125.59 s
+
+0 setgray -2464.62 -4239 s
+
+0 setgray 2168.55 -2500.76 s
+
+0 setgray 4299.12 -632.833 s
+
+0 setgray 2064.13 5585.82 s
+
+0 setgray -1144.29 -2733.45 s
+
+0 setgray -619.027 3601.97 s
+
+0 setgray -2120.86 -6050.32 s
+
+0 setgray 699.327 -4008.15 s
+
+0 setgray -1750.26 2931.32 s
+
+0 setgray -3103.54 -2312.16 s
+
+0 setgray -1922.31 -9620.99 s
+
+0 setgray -7934.1 125.305 s
+
+0 setgray -3211 2804.82 s
+
+0 setgray 3206.14 2129.15 s
+
+0 setgray -2332.56 -279.584 s
+
+0 setgray 4939.26 -7807.62 s
+
+0 setgray 2513.75 1206.59 s
+
+0 setgray -5529.75 -2381.11 s
+
+0 setgray 5503.23 -605.744 s
+
+0 setgray -3190.3 3426.45 s
+
+0 setgray 1809.66 -344.536 s
+
+0 setgray -872.072 4447.51 s
+
+0 setgray 6902.19 734.672 s
+
+0 setgray -6031.65 1418.43 s
+
+0 setgray 0.133404 5524.63 s
+
+0 setgray 1698.34 2603.62 s
+
+0 setgray -4165.82 -3688.46 s
+
+0 setgray -7246.15 -1425.1 s
+
+0 setgray 705.416 2570.12 s
+
+0 setgray -2474.25 2752.33 s
+
+0 setgray 4554.53 -833.021 s
+
+0 setgray -1512.06 -1667.35 s
+
+0 setgray -1450.79 2158.3 s
+
+0 setgray -6673.79 -4272.73 s
+
+0 setgray -3105.35 -3350.65 s
+
+0 setgray -1149.86 1240.6 s
+
+0 setgray -442.527 -1121.62 s
+
+0 setgray -2240.71 4676.05 s
+
+0 setgray -1215.2 -780.211 s
+
+0 setgray -524.023 -2745.51 s
+
+0 setgray -3080.31 666.029 s
+
+0 setgray -940.877 -113.748 s
+
+0 setgray -2868.54 80.7292 s
+
+0 setgray -5678.06 -4863.51 s
+
+0 setgray -5706.72 2249.65 s
+
+0 setgray -1098.21 3076.92 s
+
+0 setgray 3097.34 -416.681 s
+
+0 setgray -3433.18 -1995.93 s
+
+0 setgray 314.298 3084.41 s
+
+0 setgray 2984.09 -8441.29 s
+
+0 setgray 2948.64 125.587 s
+
+0 setgray 4807.07 -3321.75 s
+
+0 setgray -114.974 -6386.85 s
+
+0 setgray -23.155 4859.21 s
+
+0 setgray 2068.29 -1901.24 s
+
+0 setgray -3794.94 1479.32 s
+
+0 setgray -2249.32 1731.42 s
+
+0 setgray -2381.92 -1042.55 s
+
+0 setgray 1799.55 381.084 s
+
+0 setgray -5606.58 3731.93 s
+
+0 setgray -44.82 -1842.78 s
+
+0 setgray 3747.98 1956.95 s
+
+0 setgray -2824.82 2960.63 s
+
+0 setgray 2409.16 1585.41 s
+
+0 setgray -1756.63 -1582 s
+
+0 setgray -7280.47 166.271 s
+
+0 setgray 3300.96 5485.97 s
+
+0 setgray -3656.48 1053.61 s
+
+0 setgray 8342.73 1674.93 s
+
+0 setgray -5031.22 -1348.44 s
+
+0 setgray 1495.86 2408.31 s
+
+0 setgray 4381.33 -2419.98 s
+
+0 setgray -3786.48 624.061 s
+
+0 setgray -2049.06 2744.67 s
+
+0 setgray -5758.53 -71.2774 s
+
+0 setgray 2216.31 3196.45 s
+
+0 setgray -476.866 1791.2 s
+
+0 setgray -4563.44 -1432.31 s
+
+0 setgray -1093.22 953.464 s
+
+0 setgray -7276.46 -2149.89 s
+
+0 setgray -132.2 355.564 s
+
+0 setgray 7054.76 -5677.72 s
+
+0 setgray -2031.35 913.18 s
+
+0 setgray -2971.94 -1499.94 s
+
+0 setgray -2115.85 -1185.12 s
+
+0 setgray 1250.06 3243.8 s
+
+0 setgray 4220.99 1190.28 s
+
+0 setgray -6827.23 -1137.22 s
+
+0 setgray -315.192 5321.62 s
+
+0 setgray 521.354 -2005.93 s
+
+0 setgray -7543.06 4096.54 s
+
+0 setgray -256.855 -9896.47 s
+
+0 setgray 2624.14 -254.596 s
+
+0 setgray -2005.98 -3674.69 s
+
+0 setgray 1169.62 -1852.4 s
+
+0 setgray -1459.66 -921.022 s
+
+0 setgray 492.266 -3227.25 s
+
+0 setgray 75.3439 -1263.48 s
+
+0 setgray -1451.54 3103.5 s
+
+0 setgray 9707.2 145.945 s
+
+0 setgray -5415.74 3304.37 s
+
+0 setgray -4296.81 -261.476 s
+
+0 setgray 5254.43 3105.93 s
+
+0 setgray -2086.63 -466.947 s
+
+0 setgray 3108.15 3999.82 s
+
+0 setgray -484.746 -5054.4 s
+
+0 setgray -1655.2 -5293.77 s
+
+0 setgray -1639.76 806.992 s
+
+0 setgray 56.2968 -3350.42 s
+
+0 setgray 3375.87 -92.9902 s
+
+0 setgray -5554.82 -511.223 s
+
+0 setgray -1830.47 3302.82 s
+
+0 setgray -122.73 -5695.94 s
+
+0 setgray 3425.11 1317.46 s
+
+0 setgray 713.323 1398.61 s
+
+0 setgray -1780.28 1231.32 s
+
+0 setgray 7959.78 3493.32 s
+
+0 setgray -4705.72 1426.63 s
+
+0 setgray 1085.18 -1530.4 s
+
+0 setgray -2551.77 -2204.65 s
+
+0 setgray -89.7964 761.843 s
+
+0 setgray -2233.97 5228.79 s
+
+0 setgray -591.65 6762.42 s
+
+0 setgray -5108.81 -568.902 s
+
+0 setgray 258.991 -5015.51 s
+
+0 setgray 3945.28 5025.23 s
+
+0 setgray -2975.72 1701.21 s
+
+0 setgray -475.728 1418.93 s
+
+0 setgray -3986.71 -4634.37 s
+
+0 setgray -2903.86 -3818.95 s
+
+0 setgray -7970.43 -594.18 s
+
+0 setgray -7918.82 1453.49 s
+
+0 setgray -5009.94 228.94 s
+
+0 setgray 5877.06 3649.58 s
+
+0 setgray -2708.45 3510.33 s
+
+0 setgray -3383.04 6712.94 s
+
+0 setgray 1047.28 4516.45 s
+
+0 setgray -5708.95 731.561 s
+
+0 setgray 846.894 -1406.09 s
+
+0 setgray -163.38 -1182.21 s
+
+0 setgray 170.449 -2307.28 s
+
+0 setgray -1032.2 214.151 s
+
+0 setgray 3278.51 -1980.94 s
+
+0 setgray 1134.62 -3960.85 s
+
+0 setgray 5973.34 -934.241 s
+
+0 setgray 692.143 278.523 s
+
+0 setgray -4446.99 424.4 s
+
+0 setgray -2212.93 3500.28 s
+
+0 setgray -1786.37 -647.663 s
+
+0 setgray 3939.92 -1371.4 s
+
+0 setgray 3535.95 3100.61 s
+
+0 setgray 2150.88 -1172.52 s
+
+0 setgray 5275.65 -1054.81 s
+
+0 setgray -7313.25 -2999.1 s
+
+0 setgray -3170.63 4986.45 s
+
+0 setgray 1321.96 2763.95 s
+
+0 setgray -5573.27 218.993 s
+
+0 setgray -1909 -1913.76 s
+
+0 setgray 6108.82 -7526.51 s
+
+0 setgray 769.218 2317.25 s
+
+0 setgray -4399.42 2720.16 s
+
+0 setgray -1123.72 1554.64 s
+
+0 setgray 245.786 3894.39 s
+
+0 setgray -1638.16 4945.55 s
+
+0 setgray 4415.53 -1543.91 s
+
+0 setgray -6828.9 2471.86 s
+
+0 setgray -977.336 1759.3 s
+
+0 setgray -1220.42 -3546.6 s
+
+0 setgray 15.1948 1205.78 s
+
+0 setgray 5159.53 -4735.73 s
+
+0 setgray -1272.6 -6382.11 s
+
+0 setgray 816.135 3682.58 s
+
+0 setgray -4134.76 1103.22 s
+
+0 setgray 1456.01 -1743.39 s
+
+0 setgray -4689.4 3898.53 s
+
+0 setgray -4554.18 -3133.3 s
+
+0 setgray 3239.16 -5729.46 s
+
+0 setgray -955.877 -2186.94 s
+
+0 setgray 5657.47 -4157.82 s
+
+0 setgray -319.201 26.3125 s
+
+0 setgray -2645.09 -5617.62 s
+
+0 setgray 1003.9 -2702.31 s
+
+0 setgray -327.304 -4124.95 s
+
+0 setgray -842.595 -5279.66 s
+
+0 setgray 7516.04 6033.91 s
+
+0 setgray -227.94 -935.798 s
+
+0 setgray 173.757 -382.702 s
+
+0 setgray -920.08 -468.774 s
+
+0 setgray -2795.43 -2199.44 s
+
+0 setgray -399.205 -1987.46 s
+
+0 setgray 4444.03 -6441 s
+
+0 setgray -2634.17 -56.5256 s
+
+0 setgray 1854.57 2917.02 s
+
+0 setgray -6255.19 4104.68 s
+
+0 setgray 341.257 -5628.31 s
+
+0 setgray 24.839 -3812.45 s
+
+0 setgray -1704.52 -3906.98 s
+
+0 setgray 3649.73 4203.79 s
+
+0 setgray -492.569 6314.82 s
+
+0 setgray 3583.68 -1806.01 s
+
+0 setgray -5650.77 4356.2 s
+
+0 setgray 2664.21 2381.35 s
+
+0 setgray -5355.93 1401.88 s
+
+0 setgray 770.198 -4398.81 s
+
+0 setgray 2783.1 4713.09 s
+
+0 setgray -4668.6 2152.87 s
+
+0 setgray -2126.72 2117.39 s
+
+0 setgray -3346.93 1451.37 s
+
+0 setgray -3468.81 3184.32 s
+
+0 setgray -1008.24 7804.27 s
+
+0 setgray -6702.15 -66.4251 s
+
+0 setgray -1480.58 -2998.14 s
+
+0 setgray 3813.57 1504.72 s
+
+0 setgray 1806.88 -2808.17 s
+
+0 setgray -3152.83 -551.661 s
+
+0 setgray -3220.06 30.374 s
+
+0 setgray 1132.96 621.001 s
+
+0 setgray 4165.74 4510.02 s
+
+0 setgray -2380.06 859.925 s
+
+0 setgray 1811.36 -3639.3 s
+
+0 setgray 996.473 -2202.8 s
+
+0 setgray -3427.26 6040.07 s
+
+0 setgray -1532.1 1813.97 s
+
+0 setgray 608.516 -2916.43 s
+
+0 setgray -190.108 3707.73 s
+
+0 setgray 4380.91 2126.44 s
+
+0 setgray 2139.46 2687.35 s
+
+0 setgray -2764.9 621.637 s
+
+0 setgray -2725.93 1285.17 s
+
+0 setgray -2439.04 -1402.65 s
+
+0 setgray -3383.59 8072.09 s
+
+0 setgray 499.985 769.288 s
+
+0 setgray -348.24 4047.01 s
+
+0 setgray -4732.01 -4071.51 s
+
+0 setgray 2531.65 -1927.81 s
+
+0 setgray 1128.48 355.855 s
+
+0 setgray -3764.52 4394.68 s
+
+0 setgray -185.307 2012 s
+
+0 setgray 110.497 423.998 s
+
+0 setgray 1904.05 2210.53 s
+
+0 setgray 3524.33 -3837.81 s
+
+0 setgray 3099.81 5052.42 s
+
+0 setgray 3473.02 -576.309 s
+
+0 setgray -4606.37 -3.77957 s
+
+0 setgray -4739.27 -543.377 s
+
+0 setgray 4915.82 -490.161 s
+
+0 setgray -2734.17 -729.32 s
+
+0 setgray 6043.71 6160.28 s
+
+0 setgray -150.64 -2201.29 s
+
+0 setgray -718.033 -2094.82 s
+
+0 setgray 5285.44 74.6329 s
+
+0 setgray -8466.08 -3564.09 s
+
+0 setgray 4015.07 61.55 s
+
+0 setgray 1332.51 107.228 s
+
+0 setgray -1764.04 -4829.43 s
+
+0 setgray -2518.88 3752.19 s
+
+0 setgray -5062.21 -8214.89 s
+
+0 setgray 4882.42 3845.46 s
+
+0 setgray -814.475 4134.15 s
+
+0 setgray -4085.84 -3116.62 s
+
+0 setgray -1265.03 -4465.45 s
+
+0 setgray 1110.74 7338.86 s
+
+0 setgray -412.381 409.066 s
+
+0 setgray 2650.79 -2869.77 s
+
+0 setgray -729.925 1031.85 s
+
+0 setgray 364.152 124.266 s
+
+0 setgray -4940.17 -911.879 s
+
+0 setgray 8122.23 -3271.76 s
+
+0 setgray -667.886 -4038.89 s
+
+0 setgray -4329.24 3374.67 s
+
+0 setgray 704.628 -432.912 s
+
+0 setgray 1736.05 -1717.49 s
+
+0 setgray -302.15 -4469.06 s
+
+0 setgray 1058.38 -623.902 s
+
+0 setgray -1166.42 -1644.26 s
+
+0 setgray 83.2569 4401.78 s
+
+0 setgray 1726.19 -1214.63 s
+
+0 setgray 6192.44 -2853.03 s
+
+0 setgray -4907.55 3103.62 s
+
+0 setgray 3727.11 -2881.03 s
+
+0 setgray -630.849 -1742.92 s
+
+0 setgray 5375.48 1561.58 s
+
+0 setgray 2721.31 504.869 s
+
+0 setgray -2677.11 5730.21 s
+
+0 setgray -1167.35 2282.34 s
+
+0 setgray -2965.89 -197.359 s
+
+0 setgray 1729.26 725.029 s
+
+0 setgray 715.591 -1153.86 s
+
+0 setgray 2927.33 2936.78 s
+
+0 setgray 3059.4 -3623.55 s
+
+0 setgray -852.461 2771.22 s
+
+0 setgray 1310.24 6120.81 s
+
+0 setgray 3207.25 1303.05 s
+
+0 setgray -2750.47 5044.48 s
+
+0 setgray -2072.82 -867.479 s
+
+0 setgray 712.5 -757.555 s
+
+0 setgray -214.656 8271.69 s
+
+0 setgray 199.159 -126.987 s
+
+0 setgray -1623.12 -2111.39 s
+
+0 setgray -2033.48 2419.63 s
+
+0 setgray 742.105 -152.868 s
+
+0 setgray 1480.2 729.409 s
+
+0 setgray -6310.81 214.845 s
+
+0 setgray 2189.74 -366.171 s
+
+0 setgray -4864.06 5884.31 s
+
+0 setgray -350.081 -3805.15 s
+
+0 setgray -3945.05 -404.853 s
+
+0 setgray 956.189 2756.35 s
+
+0 setgray -5962.27 -1902.87 s
+
+0 setgray -176.085 -337.331 s
+
+0 setgray 1962.82 -1517.95 s
+
+0 setgray -1421.29 7109.54 s
+
+0 setgray 1681.53 5464.02 s
+
+0 setgray 1011.77 856.169 s
+
+0 setgray 3694.75 -3257.46 s
+
+0 setgray 2505.13 -5613.69 s
+
+0 setgray 6136.29 -3861.76 s
+
+0 setgray -447.38 4473.31 s
+
+0 setgray -1237.96 -4050.03 s
+
+0 setgray -1747.03 -331.701 s
+
+0 setgray 209.282 2499.99 s
+
+0 setgray -6437.96 -3071.83 s
+
+0 setgray 334.259 -3630.55 s
+
+0 setgray -7555.72 2854.46 s
+
+0 setgray 589.792 5995.7 s
+
+0 setgray 1519.28 1453.78 s
+
+0 setgray 4925.4 490.253 s
+
+0 setgray -3343.03 4085.21 s
+
+0 setgray 3203.63 1744.47 s
+
+0 setgray -1250.83 4829.41 s
+
+0 setgray -1306.85 -1911.72 s
+
+0 setgray 2234.35 5002.1 s
+
+0 setgray -2319.23 -7926.25 s
+
+0 setgray -455.314 -3155.02 s
+
+0 setgray -1511.89 -4421.08 s
+
+0 setgray -1677.45 -88.6721 s
+
+0 setgray -1603.28 -3358.03 s
+
+0 setgray 1712.38 -5318.43 s
+
+0 setgray -850.428 -3282.14 s
+
+0 setgray -3412.44 -728.836 s
+
+0 setgray 3883.59 -939.534 s
+
+0 setgray -1358.44 2672.34 s
+
+0 setgray -1724.54 -4325.88 s
+
+0 setgray -2486.72 3159.47 s
+
+0 setgray 1066.56 -5644.15 s
+
+0 setgray 2675.66 1930.22 s
+
+0 setgray 1314.35 938.091 s
+
+0 setgray -528.496 -853.92 s
+
+0 setgray -719.228 1638.85 s
+
+0 setgray -705.36 2349.14 s
+
+0 setgray 268.094 2012.45 s
+
+0 setgray -5890.93 1763.91 s
+
+0 setgray 6626.96 -1530.87 s
+
+0 setgray 2115.07 -3494.62 s
+
+0 setgray 4702.61 -1191.89 s
+
+0 setgray -408.381 -506.094 s
+
+0 setgray 3995.4 -432.486 s
+
+0 setgray 1147.15 1481.81 s
+
+0 setgray 2174.06 -2764.08 s
+
+0 setgray -8385.7 2584.57 s
+
+0 setgray 2659.97 5207.45 s
+
+0 setgray -1415.78 -2675.2 s
+
+0 setgray 2095.21 385.133 s
+
+0 setgray -720.364 3141.8 s
+
+0 setgray -566.428 -1407.04 s
+
+0 setgray -2033.65 1880.35 s
+
+0 setgray -3011.07 3834.34 s
+
+0 setgray -750.312 4900.9 s
+
+0 setgray 2375.24 307.963 s
+
+0 setgray 3264.25 2620.22 s
+
+0 setgray 4434.39 3843.15 s
+
+0 setgray 580.556 2008.29 s
+
+0 setgray -3637.91 -81.9782 s
+
+0 setgray 1732.56 5025.91 s
+
+0 setgray -3705.61 -1626.59 s
+
+0 setgray -2461.66 -3351 s
+
+0 setgray -3402.83 297.87 s
+
+0 setgray -5052.46 5549.37 s
+
+0 setgray 629.327 -2270.52 s
+
+0 setgray 1749.14 1774.89 s
+
+0 setgray -826.034 -783.896 s
+
+0 setgray 1432.76 3506.58 s
+
+0 setgray 1468.42 -200.056 s
+
+0 setgray 2107.52 6145.45 s
+
+0 setgray -8070 -1717.37 s
+
+0 setgray -170.83 -3020.39 s
+
+0 setgray 3708.68 -109.36 s
+
+0 setgray -4783.13 526.604 s
+
+0 setgray 658.954 1038.84 s
+
+0 setgray -1125.22 -8374.87 s
+
+0 setgray -1457.73 -3834.49 s
+
+0 setgray 1377.47 -945.651 s
+
+0 setgray 2283.67 -749.262 s
+
+0 setgray 821.328 1939.64 s
+
+0 setgray 6563.89 -4637.44 s
+
